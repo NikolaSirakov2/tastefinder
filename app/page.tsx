@@ -14,7 +14,7 @@ export default function Home() {
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <a
           className="flex items-center gap-2 hover:opacity-80 transition-opacity"
-          href="#"
+          href="https://www.instagram.com/tastefinderai/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Follow us on Instagram"
@@ -31,7 +31,7 @@ export default function Home() {
         </a>
         <a
           className="flex items-center gap-2 hover:opacity-80 transition-opacity"
-          href="#"
+          href="https://www.facebook.com/people/TasteFinder/61577566198063/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Follow us on Facebook"
